@@ -6,7 +6,7 @@
     "description": "A gripping tale of mystery set in a small coastal town where secrets wash up with the tide.",
     "category": "Story",
     "available_quantity": 5,
-    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=600"
+    "image_url": "https://m.media-amazon.com/images/I/91R7WDY96dL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "An exploration into the world of quantum computing and how it will redefine the 21st century.",
     "category": "Tech",
     "available_quantity": 3,
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=600"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQws6Dx0EKWvI2QBsbH3PNDRXVTmz6JTnwQLA&s"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "How synthetic biology is helping us cure diseases once thought to be incurable.",
     "category": "Science",
     "available_quantity": 8,
-    "image_url": "https://images.unsplash.com/photo-1532187863486-abf9d39d9992?q=80&w=600"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDomKa_j6IteHRGlBLBJTwDxA-bI1n06xWQ&s"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "description": "Mastering the art of clean code and scalable software architecture in modern environments.",
     "category": "Tech",
     "available_quantity": 12,
-    "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=600"
+    "image_url": "https://img.freepik.com/free-vector/gradient-vertical-poster-template-isra-miraj_23-2151122318.jpg?semt=ais_hybrid&w=740&q=80"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "description": "An epic fantasy story following a young rebel trying to overthrow a tyrannical sorcerer.",
     "category": "Story",
     "available_quantity": 4,
-    "image_url": "https://images.unsplash.com/photo-1614544048536-0d28caf77f41?q=80&w=600"
+    "image_url": "https://islamtics.com/wp-content/uploads/2022/05/sealed-nectar.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "description": "A beginner's guide to understanding the vast complexities of our universe and black holes.",
     "category": "Science",
     "available_quantity": 7,
-    "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=600"
+    "image_url": "https://m.media-amazon.com/images/I/A1as90FDM5L._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "description": "Understanding blockchain, smart contracts, and the future of the internet.",
     "category": "Tech",
     "available_quantity": 10,
-    "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=600"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFKAeBwY22DP6WZnb0LMkFfEOt3H9WfC9xQwLJlym0Q&s"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "description": "A historical fiction story about a girl who discovers a hidden world of ancient alchemy.",
     "category": "Story",
     "available_quantity": 2,
-    "image_url": "https://images.unsplash.com/photo-1543003919-a995d5255382?q=80&w=600"
+    "image_url": "https://files.sobrief.com/social/cover_destiny-disrupted_360px_1747143465.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "description": "Deep dive into Server Components, Turbopack, and advanced routing in Next.js 16.",
     "category": "Tech",
     "available_quantity": 6,
-    "image_url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=600"
+    "image_url": "https://www.tarbiyahbooksplus.com/wp-content/uploads/2019/09/lost-and-founder.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "description": "The definitive guide to DNA sequencing and the revolution of genetic mapping.",
     "category": "Science",
     "available_quantity": 9,
-    "image_url": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?q=80&w=600"
+    "image_url": "https://lutonmuslimjournal.com/wp-content/uploads/2025/07/Book-Cover.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "description": "A classic story of forbidden romance and family rivalry in the English countryside.",
     "category": "Story",
     "available_quantity": 1,
-    "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=600"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPFpU00-jjG4SUbJkewQc4FEeEC94T_3q6Q&s"
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "description": "Discussing the moral implications and future safeguards of advanced AI systems.",
     "category": "Tech",
     "available_quantity": 15,
-    "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600"
+    "image_url": "https://www.tarbiyahbooksplus.com/wp-content/uploads/2017/12/end-of-world.jpg"
   }
 ]}
