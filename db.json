@@ -107,4 +107,43 @@
     "available_quantity": 15,
     "image_url": "https://www.tarbiyahbooksplus.com/wp-content/uploads/2017/12/end-of-world.jpg"
   }
-]}
+],
+"upcoming" : [
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Elena Vance",
+    "description": "An atmospheric tale of a hidden civilization discovered deep within an untouched wilderness.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJW_289GcH5WCQx_pSexvndjyw_coZ6fV0Ww&s"
+  },
+  {
+    "id": 2,
+    "title": "Mastering Next.js 15",
+    "author": "Marcus Thorne",
+    "description": "A comprehensive guide to building full-stack applications using the latest App Router and Server Actions.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyh85MOl8zPSW4ZNwqMLZP_1uWHS4VCNoFGQ&s"
+  },
+  {
+    "id": 3,
+    "title": "Quantum Horizons",
+    "author": "Dr. Aris Thorne",
+    "description": "Exploring the boundaries of quantum mechanics and what they mean for the future of computing.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://www.libraryjournal.com/binaries/content/gallery/thenaziconspiracy.jpg/thenaziconspiracy.jpg/Jlibrary%3Atwohundred"
+  },
+  {
+    "id": 4,
+    "title": "The Codebreaker's Legacy",
+    "author": "Sarah Jenkins",
+    "description": "A thrilling historical fiction following a young mathematician who uncovers a secret that could change history.",
+    "category": "Story",
+    "available_quantity": 15,
+    "image_url": "https://m.media-amazon.com/images/I/61c75l+SbLL.jpg"
+  }
+]
+}
