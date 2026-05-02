@@ -110,7 +110,7 @@
 ],
 "upcoming" : [
   {
-    "id": 1,
+    "id": 13,
     "title": "The Silent Forest",
     "author": "Elena Vance",
     "description": "An atmospheric tale of a hidden civilization discovered deep within an untouched wilderness.",
@@ -119,7 +119,7 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJW_289GcH5WCQx_pSexvndjyw_coZ6fV0Ww&s"
   },
   {
-    "id": 2,
+    "id": 14,
     "title": "Mastering Next.js 15",
     "author": "Marcus Thorne",
     "description": "A comprehensive guide to building full-stack applications using the latest App Router and Server Actions.",
@@ -128,16 +128,16 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyh85MOl8zPSW4ZNwqMLZP_1uWHS4VCNoFGQ&s"
   },
   {
-    "id": 3,
+    "id": 15,
     "title": "Quantum Horizons",
     "author": "Dr. Aris Thorne",
     "description": "Exploring the boundaries of quantum mechanics and what they mean for the future of computing.",
     "category": "Science",
     "available_quantity": 5,
-    "image_url": "https://www.libraryjournal.com/binaries/content/gallery/thenaziconspiracy.jpg/thenaziconspiracy.jpg/Jlibrary%3Atwohundred"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx4D4n6zJPDexq5lLJNCNC6RqvpTGy-3TJA&s"
   },
   {
-    "id": 4,
+    "id": 16,
     "title": "The Codebreaker's Legacy",
     "author": "Sarah Jenkins",
     "description": "A thrilling historical fiction following a young mathematician who uncovers a secret that could change history.",
